@@ -187,7 +187,6 @@ textarea {
         flex-direction: column;
         align-items: center;
         margin-bottom: 30px;
-        margin-top: 20px;
     }
 
     .container button {
@@ -206,8 +205,6 @@ textarea {
         justify-content: center;
         
     }
-
-   
 
     .header img {
         display: none;
